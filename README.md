@@ -53,7 +53,3 @@ The generated password will be displayed and automatically copied to your clipbo
 To install **pyperclip**, use the following command:
 ```bash
 pip install pyperclip
-
-### Notes:
-- The script automatically clears the console output for a cleaner experience.  
-- Make sure to enable clipboard access for the script to copy the password automatically.
